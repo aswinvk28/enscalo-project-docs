@@ -7,4 +7,4 @@ The project documentation is built using jekyll and ruby. The project aims to cr
 - (2) Light
 - (3) Retention
 
-[Logo](assets/img/logo-01-enscalo-v2.png)
+![Logo](assets/img/logo-01-enscalo-v2.png)
